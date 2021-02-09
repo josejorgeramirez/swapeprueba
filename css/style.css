@@ -1,0 +1,14 @@
+body{
+	
+}
+
+.header-area{
+	text-transform: lowercase;
+	margin-bottom: 50px;
+	box-shadow: 0 0px 3px;
+	padding-bottom: 30px;
+}
+.header-area .navbar{
+	background-color: #FFFFFF;
+	text-transform: capitalize;
+}
